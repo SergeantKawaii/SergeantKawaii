@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeantKawaii
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Waleed#5336
 
