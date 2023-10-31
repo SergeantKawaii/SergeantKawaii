@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SergeantKawaii
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Waleed#5336
+- 📫 How to reach me Waleed0000
 
 <!---
 SergeantKawaii/SergeantKawaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
